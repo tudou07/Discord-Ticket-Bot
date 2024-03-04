@@ -10,7 +10,7 @@ import (
 const (
 	RepoOwner 	= "Rai-Sahil"
 	RepoName 	= "Machine-Learning"
-	Token		= "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"
+	Token		= "TOKEN_HERE"
 )
 
 type Ticket struct {
